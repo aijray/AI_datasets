@@ -1,2 +1,2 @@
-contact_type,category,business service,service offering,assignment group
+contact_type,category,business_service,service_offering,assignment_group
 Chat,Performance,Enterprise Server Computing,Server Offerings,DCN CIS (HON)
